@@ -27,8 +27,8 @@
 
 <table align="center" >
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="85" /><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="85" /><br>TypeScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="83" /><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="83" /><br>TypeScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br>React</td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=nextjs" width="48" /><br>Next.js</td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=tailwind" width="48" /><br>Tailwind CSS</td>
