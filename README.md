@@ -9,7 +9,7 @@
 
 💻 **Frontend Developer** specialized in building modern, scalable, and user-centric web applications using **React.js**, **Next.js**, and **TypeScript**.  
 🎨 Passionate about **UI/UX**, **responsive design**, and crafting clean, accessible, and performance-optimized interfaces.  
-⚙️ Experienced with modern frameworks and tools like **Tailwind CSS**, **Shadcn/UI**, **HeroUI**, and **DaisyUI** , .... for rapid UI development.  
+⚙️ Experienced with modern frameworks and tools like **Tailwind CSS**, **Shadcn/UI**, **HeroUI**, **DaisyUI** and **Material UI (MUI)** , .... for rapid UI development.  
 📊 Skilled in **React Query**, **TanStack Table**, and **Zustand** for efficient state and data management.  
 🧪 Familiar with **Vitest**, **Jest**, **Testing Library**, and **Playwright** for writing and automating tests.  
 🔐 Implementing authentication, middleware, and API integrations using **NextAuth**, **RESTful APIs**, and **Swagger**.  
