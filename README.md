@@ -98,9 +98,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbbasRostami&show_icons=true&theme=default_repocard" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbbasRostami&layout=compact&langs_count=8&theme=transparent" height="150" alt="languages graph" />
 </div>
-
+ 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbbasRostami&theme=light" alt="GitHub trophies" />
+</div>
+
+ <br /><br />
+
+<div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/277d750a-bf66-426e-a776-76673c51569c.svg)](https://wakatime.com/@277d750a-bf66-426e-a776-76673c51569c)
+
+</div>
+
+<div align="center">
+  
+[![AbbasRostami WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abbasrostami&layout=compact&custom_title=WakaTime%20-%20Active%20Code%20Time%20(%20Jul%202025%20-%20Now%20)&card_width=450)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/@abbasrostami))
+
 </div>
 
 <div align="center">
