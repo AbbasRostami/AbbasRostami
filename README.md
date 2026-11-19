@@ -7,14 +7,14 @@
 
 ## 🚀 About Me
 
-💻 **Frontend Developer** specialized in building modern, scalable, and user-centric web applications using **React.js**, **Next.js**, and **TypeScript**.  
-🎨 Passionate about **UI/UX**, **responsive design**, and crafting clean, accessible, and performance-optimized interfaces.  
-⚙️ Experienced with modern frameworks and tools like **Tailwind CSS**, **Shadcn/UI**, **HeroUI**, **DaisyUI** and **Material UI (MUI)** , .... for rapid UI development.  
-📊 Skilled in **React Query**, **TanStack Table**, and **Zustand** for efficient state and data management.  
-🧪 Familiar with **Vitest**, **Jest**, **Testing Library**, and **Playwright** for writing and automating tests.  
-🔐 Implementing authentication, middleware, and API integrations using **NextAuth**, **RESTful APIs**, and **Swagger**.  
-🚀 Deploying projects via **Vercel** and **Netlify**, with a focus on modern web standards and best practices.  
-🧩 Skilled in form management and data validation using **React Hook Form**, **Formik**, **Yup**, and **Zod** — building powerful, fast, and reliable forms with an excellent user experience
+💻 **Frontend / Software Engineer** specialized in building modern, scalable, and user-centric web applications using **React.js**, **Next.js**, and **TypeScript**.  
+🎨 Passionate about **UI/UX**, **responsive design**, **RTL/LTR internationalization (next-intl)**, and crafting clean, accessible, and performance-optimized interfaces.  
+⚙️ Experienced with modern frameworks and tools like **Tailwind CSS**, **Shadcn/UI**, **TipTap Editor**, **HeroUI**, **DaisyUI**, and **Material UI (MUI)** for rapid UI development.  
+📊 Skilled in **React Query**, **TanStack Table**, **Zustand**, and **nuqs** for efficient server, client, and URL state management.  
+🧪 Familiar with **Vitest**, **Jest**, **Testing Library**, **MSW**, **Cypress**, and **Playwright** for writing and automating unit, integration, and E2E tests.  
+🔐 Implementing authentication, edge middleware, and API integrations using **JWT (jose)**, **NextAuth**, **RESTful APIs**, and **Swagger**.  
+🐳 Containerizing with **Docker**, automating CI/CD pipelines via **GitHub Actions**, and deploying projects via **Vercel** and **Netlify** with error monitoring (**Sentry**) and advanced **SEO**.  
+🧩 Skilled in form management and data validation using **React Hook Form**, **Formik**, **Yup**, and **Zod** — building powerful, fast, and reliable forms with an excellent user experience.
 
 ## 🚀 "Always curious, always learning — pushing myself to grow as a developer every day."
 
@@ -84,6 +84,15 @@
   </tr>
   <tr>
     <td align="center"><img src="https://testing-library.com/img/octopus-128x128.png" width="48" /><br>Testing Library</td>
+     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=cypress" width="48" /><br>Cypress</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/16939337?s=60&v=4" width="48" /><br>Tiptap Editor</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/amannn/next-intl/main/media/logo.svg" width="68" /><br>Next-Intl</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/47ng/nuqs/next/packages/res/wordmark.light.svg" width="48" /><br>Nuqs</td>
+  </tr>
+   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br>Docker</td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48" /><br>GitHub Actions</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sentry" width="48" /><br>Sentry</td>
   </tr>
 </table>
 <div>
