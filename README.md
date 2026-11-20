@@ -27,9 +27,9 @@
 
 <table align="center" >
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="83" /><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="83" /><br>TypeScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br>React</td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=javascript&perline=12&radius=40" width="83" /><br>JavaScript</td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=typescript&perline=12&radius=40" width="83" /><br>TypeScript</td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=reactjs&perline=12&radius=40" width="48" /><br>React</td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=nextjs" width="48" /><br>Next.js</td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=tailwind" width="48" /><br>Tailwind CSS</td>
   </tr>
@@ -64,8 +64,8 @@
   <tr>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=chakraui" width="48" /><br>Chakra UI</td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=radixui" width="48" /><br>Radix UI</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" /><br>Jest</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" /><br>REST API</td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=jest&perline=12&radius=40" width="48" /><br>Jest</td>
+    <td align="center"><img src="https://skills.syvixor.com/api/icons?i=rest&perline=12&radius=40" width="48" /><br>REST API</td>
     <td align="center"><img src="https://skills.syvixor.com/api/icons?i=swagger" width="48" /><br>Swagger</td>
   </tr>
   <tr>
